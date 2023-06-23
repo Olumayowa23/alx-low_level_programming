@@ -8,7 +8,7 @@ int main(void)
 {
 	int n;
 
-	for (n = 28; n < 58; n++)
+	for (n = 38; n < 68; n++)
 	{
 		putchar(n);
 		if (n != 57)
