@@ -1,1 +1,1 @@
-0x06-pointers_arrays_strings readme file
+alx-low_level_programming readme
